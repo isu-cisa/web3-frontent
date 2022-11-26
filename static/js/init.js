@@ -1,6 +1,6 @@
 function init() {
   // Check Auth
-  // checkAuth();
+ checkAuth();
   
   // Set navbar
   navbar();
